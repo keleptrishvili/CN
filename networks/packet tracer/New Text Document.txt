@@ -1,0 +1,2 @@
+user: netccna2@itvet.ge
+pass: 20@bTu@24.ccna2
